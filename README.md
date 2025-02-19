@@ -76,3 +76,4 @@ The [book][book] contains an in-depth overview of the project, contributor guide
 [op-labs]: https://github.com/ethereum-optimism
 [worldcoin]: https://github.com/worldcoin
 [eth-tests]: https://github.com/ethereum/tests
+This project is a demonstration of blockchain technology and smart contract integration.
